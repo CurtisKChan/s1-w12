@@ -10,8 +10,10 @@ public class NumbersLoops{
     public int reverseNum(int num){
       return 0;
     }
-  
-    public int palindromeCount(int num){
+    // EX:
+    // Start 100, Finish 125
+    // returns 3 (101, 111, 121)
+    public int palindromeCount(int start, int finish){
       return 0;
     }
   
